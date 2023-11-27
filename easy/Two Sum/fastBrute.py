@@ -21,7 +21,7 @@ class Solution:
 
 # chatGPT :
 #   time complexity of O(n^2) in the worst case 
-#   because `complement in nums`` is an O(n) operation that is performed for each element in nums.
+#   because `complement in nums` is an O(n) operation that is performed for each element in nums.
 #   the `in` operator, which is O(n) on average for lists​​. 
 #   However, it's optimized in C and can be faster than a Python for loop.
 #   The index() method, also O(n), then finds the position of the complement.
