@@ -1,9 +1,10 @@
 //
-//  C_nestedfor.c
 //  Created by 筍包 on 2023/11/24.
 //
+// theoretically, the time complexity of lookup in hash table isn't "close to" O(1), but IS O(1)
+// this solution should work, but it will cause Memory Limit Exceeded
+// because the array is too large
 
-// Memory Limit Exceeded
 
 #include <stdio.h>
 #include <stdlib.h>

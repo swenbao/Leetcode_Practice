@@ -2,6 +2,7 @@
 //  Created by 筍包 on 2023/11/24.
 //  Time : O(n)
 //  Space: O(n)
+//  best run time: 3ms
 
 #include <stdio.h>
 #include <stdlib.h>
